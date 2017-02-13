@@ -1,8 +1,8 @@
 # Expose using UPnP a LAN port to WAN or IAN 
 
-Using a solution from [Matt's Codecave](http://mattscodecave.com/posts/using-python-and-upnp-to-forward-a-port.html) I made a small module to control the router - [blog ](http://rainbowheart.ro/526).
+Using an ideea from [Matt's Codecave](http://mattscodecave.com/posts/using-python-and-upnp-to-forward-a-port.html) I made a small module to control the router - [blog announcement](http://rainbowheart.ro/526).
 
-Works both on Windows and Linux. Use it with caution on private networks: it will expose your redirected ports to anyone from Internet.
+The solution works both on Windows and Linux. Use it with caution on private networks: it will expose your redirected ports to anyone from Internet.
 
 On Linux you must install netifaces: **pip install netifaces**, on Windows it works without **netifaces**.
 
@@ -10,7 +10,7 @@ License-free software.
  
 Feel free to use this software for both personal and commercial usage.
 
-A sample webserver in [python](https://www.python.org/) with [bottle](http://bottlepy.org/) is included into repository.
+A sample webserver in [python](https://www.python.org/) with [bottle py](http://bottlepy.org/) is included into repository.
 
 A small usage demo:
 
