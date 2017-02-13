@@ -8,11 +8,9 @@ On Linux you must install netifaces: **pip install netifaces**, on Windows it wo
 
 License-free software.
  
-Feel free to use this software for both personal and commercial usage.
+Feel free to use this software for both personal and commercial.
 
 A sample webserver in [python](https://www.python.org/) with [bottle py](http://bottlepy.org/) is included into repository.
-
-A small usage demo:
 
 ```python
 
